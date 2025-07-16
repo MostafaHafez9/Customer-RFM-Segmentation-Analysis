@@ -14,7 +14,7 @@ The goal of this project is to analyze customer behavior using RFM (Recency, Fre
 
 ## 📁 Files Included
 - `Online_Retail_dataset.xlsx`: Cleaned transactional data  
-- `RFM_Segmentation_dashboard.pbix`: Power BI dashboard  
+- `Customer_RFM_Segmentation_dashboard.pbix`: Power BI dashboard  
 - `1_RFM Segmentation Analysis.PNG`: Overview of customer segmentation  
 - `2_Segment Performance.PNG`: Deep dive into a selected segment  
 - `3_Customer Details & Segment Strategies.PNG`: Detailed strategies and customer-level view
