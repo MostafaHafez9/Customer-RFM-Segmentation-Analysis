@@ -6,9 +6,9 @@ The goal of this project is to analyze customer behavior using RFM (Recency, Fre
 ---
 
 ## 📊 Tools Used
-- Microsoft Excel (for initial data prep and RFM scoring)
+- Microsoft Excel (for initial data prep)
 - Power BI (for interactive dashboards)
-- DAX (for calculations and segmentation logic)
+- DAX (for calculations, segmentation logic and RFM scoring)
 
 ---
 
